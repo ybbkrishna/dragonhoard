@@ -21,7 +21,9 @@ npm install
 Contribute
 ----------
 
-We are using [waffle.io](http://waffle.io/) to manage our user stories. We currently have [![Stories in Ready](https://badge.waffle.io/dragonhoard/dragonhoard.png?label=ready)](http://waffle.io/dragonhoard/dragonhoard) stories ready to be worked on.
+We are using [waffle.io](http://waffle.io/) to manage our user stories: [![Stories in Ready](https://badge.waffle.io/dragonhoard/dragonhoard.png?label=ready)](http://waffle.io/dragonhoard/dragonhoard)
+
+To contribute, fork, grab a story to work on from the ready queue, and do a pull request when you have something for us to merge in.
 
 Goals
 -----
