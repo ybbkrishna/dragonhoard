@@ -43,7 +43,7 @@ We are using the Wordpress business model here:
 Standalone
 ----------
 
-This is obviously the free version. We'll provide documetntation to get it up and running on your own server for you, but offer no support other than upgrades to the code and standard issues on github.
+This is the free version. We'll provide documentation to get it up and running on your own server for you, but offer no support other than upgrades to the code and standard issues on github.
 
 Service
 -------
