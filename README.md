@@ -13,10 +13,15 @@ Install
 -------
 
 ```
-git clone https://github.com/dragonhoard/dragon-hoard.git
-cd dragon-hoard
+git clone https://github.com/dragonhoard/dragonhoard.git
+cd dragonhoard
 npm install
 ```
+
+Contribute
+----------
+
+We are using [waffle.io](http://waffle.io/) to manage our user stories. We currently have [![Stories in Ready](https://badge.waffle.io/dragonhoard/dragonhoard.png?label=ready)](http://waffle.io/dragonhoard/dragonhoard) stories ready to be worked on.
 
 Goals
 -----
