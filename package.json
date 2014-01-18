@@ -20,6 +20,11 @@
       "type": "git",
       "url":  "https://github.com/dragonhoard/dragonhoard.git"
     },
-    "author": "Michael Christenson II",
+    "homepage": "http://dragonhoard.github.io/",
+    "author": "Michael Christenson II <michael@rebelhold.com> (http://rebelhold.com/)",
+    "contributors": [
+      "Michael Christenson II <michael@rebelhold.com> {http://rebelhold.com/)",
+      "David Fuka"
+    ],
     "license": "GPL-3.0+"
 }
