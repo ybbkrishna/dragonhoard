@@ -1,4 +1,4 @@
-DragonHoard
+DragonHoard [![Build Status](https://travis-ci.org/dragonhoard/dragonhoard.png)](https://travis-ci.org/dragonhoard/dragonhoard)
 ===========
 
 An e-commerce, point of sale, inventory management, and store management platform for Nodejs.
