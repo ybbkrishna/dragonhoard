@@ -1,16 +1,8 @@
 ########################
-# sails
-########################
-.sails
-.waterline
-.rigging
-.tmp
-
-
-########################
 # node.js / npm
 ########################
 lib-cov
+coverage
 *.seed
 *.log
 *.csv
@@ -38,9 +30,3 @@ npm-debug.log
 nbproject
 .idea
 *.sw*
-
-
-########################
-# local config
-########################
-config/local.js
