@@ -1,7 +1,11 @@
 require('../test-helper');
+var ItemTemplate = require('../../lib/item-template');
 
 describe('ItemTemplate', function () {
-  it('generates a new template');
+  it('generates a new template', function () {
+    var Foo = new ItemTemplate({name: 'Foo'});
+    assert.equal('Foo', Foo.template.name);
+  });
 
   describe('field type behaviors', function () {
     it('field can be required');
