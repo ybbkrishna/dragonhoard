@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ybbkrishna/dragonhoard.png?label=ready&title=Ready)](https://waffle.io/ybbkrishna/dragonhoard)
 DragonHoard [![Build Status](https://travis-ci.org/dragonhoard/dragonhoard.png)](https://travis-ci.org/dragonhoard/dragonhoard)
 ===========
 
